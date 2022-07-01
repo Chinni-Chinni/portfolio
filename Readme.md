@@ -43,7 +43,7 @@ Contacts
 
 6. Contacts Section 
 
-<img src = "./image/contact.png" />
+<img src = "./images/contact.png" />
 
 
 
