@@ -28,7 +28,7 @@ projectsSection.innerHTML = `
                             <a href="https://github.com/Chinni-Chinni/chinni_project"
                                 target="_blank"><button>
                                     Github</button></a>
-                            <a href="https://chinniproject.netlify.app/" target="_blank"><button>Demo</button></a>
+                            <a href="https://royalbrotherspage.vercel.app/index.html" target="_blank"><button>Demo</button></a>
 
                         </div>
                     </div>
