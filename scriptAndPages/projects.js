@@ -62,7 +62,7 @@ projectsSection.innerHTML = `
                             <a href="https://github.com/Chinni-Chinni/royalBrothers"
                                 target="_blank"><button>
                                     Github</button></a>
-                            <a href="https://royal-brother-7t0gtjzk4-chinni-chinni.vercel.app/index.html" target="_blank"><button>Demo</button></a>
+                            <a href="https://royalbrotherspage.vercel.app/index.html" target="_blank"><button>Demo</button></a>
 
                         </div>
                     </div>
