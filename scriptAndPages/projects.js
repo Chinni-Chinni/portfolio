@@ -37,32 +37,33 @@ projectsSection.innerHTML = `
 
             <!-- H&M-clone -->
             <div class="eachProjectDiv ">
-                <p class="ProjectName ">Royal Brothers - Clone</p>
+                <p class="ProjectName ">Anthropologie womens clothing - Clone</p>
                 <div class="ProjectContainer">
                     <div class="ProjectImage">
-                        <img src="./images/royalBrother.png" alt="" />
+                        <img src="./images/anthropologie.png" alt="" />
                     </div>
                      <div class="projectDescription">
-                        <p>Developed a clone of <a href="https://royal-brother-7t0gtjzk4-chinni-chinni.vercel.app/index.html"
-                                style="color: #FFF; text-decoration: underline;" target="_blank">Royal Brothers</a> website.</p>
+                        <p>Developed a clone of <a href="https://anthropologie1.netlify.app/"
+                                style="color: #FFF; text-decoration: underline;" target="_blank">Anthropologie</a> website.</p>
                         <br >
-                        <p>It's a Collaborative project, Built by a team of 4 members  in 6 days. We have Implemented the basic 
-                        and required features of the Royal Brothers. Like, as bike rental,booking page,payment page,Login and Signup page.</p>
+                        <p>It's a Collaborative project, Built by a team of 5 members  in 6 days. We have Implemented the basic 
+                        and required features of the Anthropologie womens clothing page. Like, as products page,booking page,payment page,Login and Signup page.</p>
                         <br>
                         <u style="font-weight:bold;">TechStack :- </u>
                         <br>
                         <div class="techStackProject">
                             <p><i class="fab fa-html5"></i> HTML</p>
                             <p><i class="fab fa-css3-alt"></i> CSS</p>
-                            <p> <i class="fab fa-js-square"></i> Javascript </p>
+                            <p> <i class="fab fa-js-square"></i> React JS </p>
+                            <p> <i class="fab fa-js-square"></i> Redux </p>
                             <p> <i class="fab fa-js-square"></i> JSON Server </p>
                             
                         </div>
                         <div class="ProjectLinks">
-                            <a href="https://github.com/Chinni-Chinni/royalBrothers"
+                            <a href="https://github.com/venkycoder422/Anthropologie/tree/chinni/project"
                                 target="_blank"><button>
                                     Github</button></a>
-                            <a href="https://royalbrotherspage.vercel.app/index.html" target="_blank"><button>Demo</button></a>
+                            <a href="https://anthropologie1.netlify.app/" target="_blank"><button>Demo</button></a>
 
                         </div>
                     </div>

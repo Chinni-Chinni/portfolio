@@ -50,6 +50,10 @@ skills.innerHTML = `
         <i class="fab fa-js"></i>
         <p>Data Structure and Algorithms</p>
 </div>
+<div>
+<i class="fa-regular fa-code"></i>
+<p>Metarial UI</p>
+</div>
     
 </div>
 </div>

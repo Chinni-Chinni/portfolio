@@ -11,7 +11,7 @@ about.innerHTML = `
                 <div class="column right">
                     <div class="text"> Enjarappa Gari Chinni</div>
                     <p>Call me Chinni, </p>
-                    <p>Aspiring Front-end Developer, Aiming to start my journey as a Front-end Web Developer in a Tech company. Enhanced skills in Frontend development. Adaptive to team projects.
+                    <p>Aspiring Full Stack Web Developer, Aiming to start my journey as a Full Stack Web Developer in a Tech company. Enhanced skills in Frontend development. Adaptive to team projects.
                     <br>
                     Waiting for a chance to present myself as a Developer where someone can relay on my skills.
                     </p>
