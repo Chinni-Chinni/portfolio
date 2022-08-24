@@ -18,11 +18,11 @@ about.innerHTML = `
                     <br/>
                     <div class="mediaLinksAbout">
                          <a href="https://www.linkedin.com/in/chinni-enjarappa-7bb2a41b2/" target="_blank">
-                        /    <i class="fab fa-linkedin"></i>
-                        / </a>
+                           <i class="fab fa-linkedin"></i>
+                         </a>
                         <a href="https://github.com/Chinni-Chinni" target="_blank">
-                        /     <i class="fab fa-github"></i>
-                        / </a>
+                            <i class="fab fa-github"></i>
+                         </a>
                        
                     </div>
                     

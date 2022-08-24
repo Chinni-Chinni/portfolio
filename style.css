@@ -49,13 +49,22 @@ footer {
 }
 .about .about-content,
 .services .serv-content,
-.skills .skills-content,
-.contact .contact-content {
+.skills .skills-content {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
 }
+
+.contact .contact-content{
+  width : 70%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
 section .title {
   position: relative;
   text-align: center;
