@@ -25,10 +25,10 @@ projectsSection.innerHTML = `
                             
                         </div>
                         <div class="ProjectLinks">
-                            <a href="https://github.com/Chinni-Chinni/chinni_project"
+                            <a href="https://github.com/Chinni-Chinni/coschedule"
                                 target="_blank"><button>
                                     Github</button></a>
-                            <a href="https://royalbrotherspage.vercel.app/index.html" target="_blank"><button>Demo</button></a>
+                            <a href="https://coschedule-kohl.vercel.app/" target="_blank"><button>Demo</button></a>
 
                         </div>
                     </div>

@@ -41,11 +41,15 @@ section {
 .about,
 .education,
 .services,
+body{
+  font-family: "Poppins", sans-serif;
+}
+
 .skills,
 .teams,
 .contact,
 footer {
-  font-family: "Poppins", sans-serif;
+  
 }
 .about .about-content,
 .services .serv-content,
