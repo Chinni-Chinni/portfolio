@@ -60,7 +60,7 @@ projectsSection.innerHTML = `
                             
                         </div>
                         <div class="ProjectLinks">
-                            <a href="https://github.com/venkycoder422/Anthropologie/tree/chinni/project"
+                            <a href="https://github.com/Chinni-Chinni/coschedule"
                                 target="_blank"><button>
                                     Github</button></a>
                             <a href="https://anthropologie1.netlify.app/" target="_blank"><button>Demo</button></a>
