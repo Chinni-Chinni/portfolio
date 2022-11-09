@@ -9,7 +9,7 @@ projectsSection.innerHTML = `
                         <img src="./images/coschedule.png" alt="" />
                     </div>
                     <div class="projectDescription">
-                        <p>Developed a clone of <a href="https://chinniproject.netlify.app/"
+                        <p>Developed a clone of <a href="https://coschdule.netlify.app/"
                                 style="color: #FFF; text-decoration: underline;" target="_blank">CoSchedule</a> website.</p>
                         <br >
                         <p>CoSchedule is an all-in-one platform for planning, organizing, and executing all things content marketing. It’s easy to use drag-and-drop calendar interface makes it easy to collaborate and schedule all your projects in one place. </p>
@@ -60,7 +60,7 @@ projectsSection.innerHTML = `
                             
                         </div>
                         <div class="ProjectLinks">
-                            <a href="https://github.com/Chinni-Chinni/coschedule"
+                            <a href="https://github.com/Chinni-Chinni/anthropologie"
                                 target="_blank"><button>
                                     Github</button></a>
                             <a href="https://anthropologie1.netlify.app/" target="_blank"><button>Demo</button></a>
