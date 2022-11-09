@@ -28,7 +28,7 @@ projectsSection.innerHTML = `
                             <a href="https://github.com/Chinni-Chinni/coschedule"
                                 target="_blank"><button>
                                     Github</button></a>
-                            <a href="https://coschedule-kohl.vercel.app/" target="_blank"><button>Demo</button></a>
+                            <a href="https://coschdule.netlify.app/" target="_blank"><button>Demo</button></a>
 
                         </div>
                     </div>
